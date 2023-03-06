@@ -1,0 +1,16 @@
+.container {
+  background-color: lightblue; /* Задаем цвет фона */
+  display: flex;
+  align-items: center; /* Выравнивание элементов по вертикали */
+  padding: 10px; /* Добавляем отступы */
+}
+
+img {
+  margin-right: 10px; /* Отступ справа */
+}
+
+p {
+  margin: 0;
+  text-align: center;
+  flex-grow: 1; /* Растягиваем текст на всю доступную ширину */
+}

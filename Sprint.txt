@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Заголовок страницы</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+     <div style="background-color: brown; min-height: 50px;">
+				<div style="display: flex; color: white; padding: 20px;">
+					<div style="width: 40%;">
+						<b>BITLAB</b> News
+					</div>
+					<div style="width: 60%;">
+						<div style="float:right;">
+							<b style="margin-left: 10px;">Home</b>
+							<b style="margin-left: 10px;">Sport</b>
+							<b style="margin-left: 10px;">Science</b>
+							<b style="margin-left: 10px;">Politics</b>
+                            <b style="margin-left: 10px;">Finance</b>
+						</div>
+					</div>
+				</div>
+			</div><br>
+    </header>
+      
+      
+      <div class="container">
+      <img src="Khabib.jpg" alt="Картинка">
+      <p>Both Conor McGregor and Khabib Nurmagomedov were fully aware of the fact that the only thing that would be resolved in the main event of UFC 229 was going to be who walked away with the lightweight title.
+The fierce rivalry between McGregor and Nurmagomedov was never going to be settled over 25 minutes in an Octagon and the bad blood was always going to continue simmering after the final buzzer in Las Vegas' T-Mobile Arena on Saturday night.
+</p>
+    
+      
+       
+      </div>
+
+<div>
+				<h2 style="text-align:center;">Latest news</h2>
+			</div>
+
+      <div>
+				<div style="display:flex;">
+					<div style="width: 25%; border: 1px solid lightgrey;">
+						<div>
+							<img src="Eden.jpg" style="width: 100%;">
+						</div> 
+						<div style="padding: 0px 20px 20px 0px;">
+							<h4 style="text-align:center;">Eden Hazard injury update</h4>
+							<h2 style="text-align:center;">999.99$</h2>
+							<div style="text-align:center;">
+								<button style="color:white; background-color: #9B59B6; padding: 10px 20px 10px 20px; border: 0px;">
+									Read More
+								</button>
+							</div>
+						</div>
+					</div>
+					<div style="width: 25%; border: 1px solid lightgrey; margin-left: 10px;">
+						<div>
+							<img src="Morata.jpg" style="width: 100%;">
+						</div>
+						<div style="padding: 0px 20px 20px 0px;">
+							<h4 style="text-align:center;">Alvaro Morata scores to Torino</h4>
+							<h2 style="text-align:center;">999.99$</h2>
+							<div style="text-align:center;">
+								<button style="color:white; background-color: #9B59B6; padding: 10px 20px 10px 20px; border: 0px;">
+									Read More
+								</button>
+							</div>
+						</div>
+					</div>
+					<div style="width: 25%; border: 1px solid lightgrey; margin-left: 10px;">
+						<div>
+							<img src="GGG.jpg" style="width: 100%;">
+						</div>
+						<div style="padding: 0px 20px 20px 0px;">
+							<h4 style="text-align:center;">Canelo Alvares rejected to GGG rematch</h4>
+							<h2 style="text-align:center;">999.99$</h2>
+							<div style="text-align:center;">
+								<button style="color:white; background-color: #9B59B6; padding: 10px 20px 10px 20px; border: 0px;">
+									Read More
+								</button>
+							</div>
+						</div>
+					</div>
+					<div style="width: 25%; border: 1px solid lightgrey; margin-left: 10px;">
+						<div>
+							<img src="Max.jpg" style="width: 100%;">
+						</div>
+						<div style="padding: 0px 20px 20px 0px;">
+							<h4 style="text-align:center;">Max Verstappen became a Leader</h4>
+							<h2 style="text-align:center;">999.99$</h2>
+							<div style="text-align:center;">
+								<button style="color:white; background-color: #9B59B6; padding: 10px 20px 10px 20px; border: 0px;">
+									Read More
+								</button>
+							</div>
+						</div>
+					</div>
+				</div>
+     
+       
+			</div>               
+   
+  </body>
+</html>
+
